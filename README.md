@@ -14,7 +14,7 @@ pip install pyqrcode
 
 Clone este repositório para a sua máquina local usando `git clone https://github.com/thdnz/pyqrcode.git>`.
 Navegue até o diretório do projeto com `cd pyqrcode`.
-Execute o script `py_qrcode.py` com `python py_qrcode.py`.
+Execute o script com `python py_qrcode.py`.
 Quando solicitado, insira o link para o qual você deseja gerar um QR Code.
 O script irá gerar um QR Code para o link fornecido.
 O QR Code será salvo como 'qrcode.png' no mesmo diretório.
